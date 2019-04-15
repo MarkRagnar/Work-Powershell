@@ -1,0 +1,10 @@
+<ribcl VERSION="2.0">
+<login USER_LOGIN="Administrator" PASSWORD="cwone8585!!">
+<user_INFO MODE="write">
+<mod_USER USER_LOGIN="Administrator">
+<password value="cwone8585!!"/>
+</mod_USER>
+</user_INFO>
+</login>
+</ribcl>
+
